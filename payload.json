@@ -1,0 +1,36 @@
+{
+	"transaction_a": {
+		"transaction_id": "C01231230193102312",
+		"channel": "F11"
+	},
+	"service_a": {
+		"service_id_a": "app01",
+		"service_id_b": "6281234567890"
+	},
+	"recharge_order": {
+		"amount": "id",
+		"stock_type": "BULK",
+		"payment_method": "RSEMONEY",
+		"payment_name": "LINKAJA",
+		"organization_code": "Dapp01",
+		"element1": " kMhIAmNE4h8="
+	},
+	"transaction_b":
+	{
+		"transaction_id": "C01231230193102312",
+		"channel": "F11"
+	},
+	"service_b":
+	{
+		"service_id_a":"6281234567890"
+	},
+	"recharge_order_b":
+	{
+		"language": "id",
+		"offer_id": "00002345",
+		"order_type": "ACT",
+		"purchase_mode": "SELF",
+		"payment_method": "BALANCE",
+		"callback_url": "http://10.xx.xx.xx/xxxxx?"
+	}
+}
