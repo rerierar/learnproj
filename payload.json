@@ -1,7 +1,7 @@
 {
 	"transaction_a": {
 		"transaction_id": "C01231230193102312",
-		"channel": "F11"
+		"channel": "DOM"
 	},
 	"service_a": {
 		"service_id_a": "app01",
@@ -18,7 +18,7 @@
 	"transaction_b":
 	{
 		"transaction_id": "C01231230193102312",
-		"channel": "F11"
+		"channel": "DOM"
 	},
 	"service_b":
 	{
