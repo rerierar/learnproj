@@ -1,7 +1,12 @@
 {
 	"transaction_a": {
+<<<<<<< HEAD
 		"transaction_id": "012345",
 		"channel": "F11"
+=======
+		"transaction_id": "C01231230193102312",
+		"channel": "DOM"
+>>>>>>> origin/dev2
 	},
 	"service_a": {
 		"service_id_a": "app01",
@@ -17,8 +22,13 @@
 	},
 	"transaction_b":
 	{
+<<<<<<< HEAD
 		"transaction_id": "012345",
 		"channel": "F11"
+=======
+		"transaction_id": "C01231230193102312",
+		"channel": "DOM"
+>>>>>>> origin/dev2
 	},
 	"service_b":
 	{
