@@ -5,7 +5,7 @@
 	},
 	"service_a": {
 		"service_id_a": "app01",
-		"service_id_b": "6281234567890"
+		"service_id_b": "628121881824"
 	},
 	"recharge_order": {
 		"amount": "id",
@@ -22,7 +22,7 @@
 	},
 	"service_b":
 	{
-		"service_id_a":"6281234567890"
+		"service_id_a":"628121881824"
 	},
 	"recharge_order_b":
 	{
